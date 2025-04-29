@@ -1,5 +1,5 @@
 "use client";
-import image from '../images/logo.svg'
+import logo from ''
 export default function Navbar() {
   return (
     <nav className="w-full flex items-center justify-between p-6 bg-blue-900 text-white fixed top-0 z-50">

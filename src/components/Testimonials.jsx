@@ -17,7 +17,7 @@ export default function Testimonials() {
         <div className="p-6 bg-white rounded-lg shadow-md">
           <p>“La mejor casa de cambio online, siempre se preocupan porque sea un servicio bueno y honesto. 
             Me llaman incluso cuando pasó algún error y lo solucionan rápido”.</p>
-          <span className="block mt-4 font-semibold">Antonelly</span>
+          <span className="block mt-4 font-semibold">Antonelly S</span>
         </div>
         <div className="p-6 bg-white rounded-lg shadow-md">
           <p>“Hasta el momento estoy muy contento con el servicio brindado por Rextie. 
